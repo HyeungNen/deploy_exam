@@ -1,8 +1,9 @@
 package com.example.sample_shop.dao;
 
+import com.example.sample_shop.dto.Product;
+
 import java.util.ArrayList;
 
-import dto.Product;
 
 public class ProductRepository {
 

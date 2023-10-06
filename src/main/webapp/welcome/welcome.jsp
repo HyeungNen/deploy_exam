@@ -8,6 +8,7 @@
 </head>
 <body>
 <jsp:include page="../inc/menu.jsp"/>
+<h1 class="card-title">오승훈</h1>
 <nav class="navbar navbar-expand  navbar-dark bg-dark">
 		<div class="container">
 			<div class="navbar-header">

@@ -1,8 +1,8 @@
 package com.example.sample_shop.login;
 
-import java.io.IOException;
+import com.example.sample_shop.model.LoginBean;
 
-import model.LoginBean;
+import java.io.IOException;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

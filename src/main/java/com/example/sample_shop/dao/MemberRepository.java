@@ -1,5 +1,5 @@
 package com.example.sample_shop.dao;
-import dto.Member;
+import com.example.sample_shop.dto.Member;
 import java.util.*;
 
 public class MemberRepository {

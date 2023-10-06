@@ -1,9 +1,9 @@
 package com.example.sample_shop.mvc.model;
 
+import com.example.sample_shop.mvc.database.DBConnection;
+
 import java.sql.*;
 import java.util.ArrayList;
-
-import mvc.database.DBConnection;
 
 public class BoardDAO {
 	// 싱글턴 타입으로 작성
